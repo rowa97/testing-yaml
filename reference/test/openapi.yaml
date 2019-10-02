@@ -7,7 +7,7 @@ servers:
 paths:
   /tests:
     get:
-      summary: Your GET endpoint
+      summary: tests
       tags: []
       responses: {}
       requestBody:
@@ -15,5 +15,6 @@ paths:
           application/json:
             schema:
               type: object
+      description: woooooo
 components:
   schemas: {}
