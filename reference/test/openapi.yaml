@@ -15,8 +15,5 @@ paths:
           application/json:
             schema:
               type: object
-              properties:
-                foo:
-                  type: string
 components:
   schemas: {}
