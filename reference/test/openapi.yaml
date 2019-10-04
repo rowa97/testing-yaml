@@ -15,6 +15,6 @@ paths:
           application/json:
             schema:
               type: object
-      description: woooooo-stuff
+      description: woooooo-stuff-more-stuff
 components:
   schemas: {}
